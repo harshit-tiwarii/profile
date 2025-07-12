@@ -1,45 +1,42 @@
-👋 Hi! I’m Harshit, a passionate and curious full-stack web developer skilled in building scalable and responsive web applications.
+<h1 align="center">Hi 👋, I'm Harshit Tiwari</h1>
+<h3 align="center">🚀 Full-Stack Developer | Java | MERN Stack | Open to Opportunities</h3>
 
-🔧 Tech Stack:
+---
 
-💻 Frontend: React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+🌱 **About Me**
+- 💻 Full-stack developer skilled in building scalable and responsive web apps
+- ☕ Strong in Java & DSA (100+ LeetCode problems)
+- 🧑‍🎓 Final Year BCA Student | Internship Portal Project | MERN Stack Projects
+- 🛠️ Currently exploring: TypeScript, System Design, AI Integrations
 
-🛠️ Backend: Node.js, Express.js, REST APIs
+---
 
-🗄️ Database: MongoDB, MySQL
+🛠️ **Tech Stack**
+- 🌐 Frontend: `React.js`, `Tailwind CSS`, `HTML5`, `CSS3`, `JavaScript (ES6+)`
+- 🔧 Backend: `Node.js`, `Express.js`, `REST APIs`
+- 🗄️ Database: `MongoDB`, `MySQL`
+- ⚙️ Dev Tools: `Git`, `GitHub`, `Postman`, `VS Code`
+- ☕ Languages: `Java`, `JavaScript`, `C++`
 
-☕ Languages: Java (DSA), JavaScript, C++
+---
 
-🌐 Tools & DevOps: Git, GitHub, VS Code, Postman
+📈 **GitHub Stats**
 
-🚀 Currently working on: Real-world projects using the MERN stack with industry best practices.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-tiwarii&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-tiwarii&theme=radical" alt="GitHub Streak" />
+</p>
 
-📚 Learning: Cloud Deployment (Vercel, Netlify), TypeScript, System Design, and AI integrations.
+---
 
-🎯 Completed:
+📫 **Let’s Connect**
+- 🌐 Portfolio: https://devharshit.vercel.app/
+- 📧 Email: ht7364164@gmail.com
+- 💼 Actively looking for: **Internship / Full-time roles** in Web Development
 
-100+ DSA questions in Java on LeetCode
+---
 
-Internship Portal Management System 
-
-Multiple e-commerce and educational web apps
-
-🧠 Strengths:
-
-Clean code & component-based architecture
-
-Strong grasp of core CS fundamentals (DSA, OOPs, DBMS, OS, CN)
-
-Always curious and willing to learn new technologies
-
-💼 Actively looking for:
-Internship / Full-time roles in Frontend / Full-Stack / Software Development
-
-📫 Let’s connect:
-
-🌐 Portfolio: https://devharshit.vercel.app/
-
-📧 Email: ht7364164@gmail.com
+✨ _“Code. Learn. Build. Repeat.”_
 
 
-✨ "Code. Learn. Build. Repeat."
